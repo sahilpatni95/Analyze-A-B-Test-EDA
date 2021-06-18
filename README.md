@@ -1,5 +1,5 @@
-# Analyze-A-B-Test_-Udacity
-Project of Data Analyst Nanodegree Program on Udacity 
+# Analyze-A-B-Test-EDA
+>Project of Data Analyst Nanodegree Program on Udacity 
 
 ## Overview
 A/B tests are very commonly performed by data analysts and data scientists. 
